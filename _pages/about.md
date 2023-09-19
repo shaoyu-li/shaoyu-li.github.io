@@ -18,6 +18,7 @@ I graduated with my B.S. in Information Security from Nankai University in Tianj
 Experience
 ------
 2020.06 - 2021.01 Research Assistant at the University of Chinese Academy of Sciences
+2022.08 - 2022.12 Graduate Teaching Assistant for **CS4264: Principles Computer Security** at Virginia Tech
 
 
 Professional Services
