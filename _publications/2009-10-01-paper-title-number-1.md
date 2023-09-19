@@ -1,5 +1,5 @@
 
-<!--
+
 ---
 title: "Paper Title Number 1"
 collection: publications
@@ -16,9 +16,12 @@ This paper is about the number 1. The number 2 is left for future work.
 
 Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
 
--->
 
+
+<!--
 **Bijack: Breaking Bitcoin Network with TCP Vulnerabilities**
 S. Li, S. Shi, Y. Xiao, C. Zhang, Y. T. Hou, W. Lou
 European Symposium on Research in Computer Security (ESORICS'23), September 2023.
+
+-->
 
