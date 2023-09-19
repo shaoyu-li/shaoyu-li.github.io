@@ -18,10 +18,4 @@ Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal
 
 
 
-<!--
-**Bijack: Breaking Bitcoin Network with TCP Vulnerabilities**
-S. Li, S. Shi, Y. Xiao, C. Zhang, Y. T. Hou, W. Lou
-European Symposium on Research in Computer Security (ESORICS'23), September 2023.
-
--->
 
