@@ -17,7 +17,7 @@ I graduated with my B.S. in Information Security from Nankai University in Tianj
 Publications
 ------
 **Bijack: Breaking Bitcoin Network with TCP Vulnerabilities**  
-Shaoyu Li, Shanghao Shi, Yang Xiao, Chaoyu Zhang, Y. Thomas Hou, Wenjing Lou   
+<u>Shaoyu Li</u>, Shanghao Shi, Yang Xiao, Chaoyu Zhang, Y. Thomas Hou, Wenjing Lou   
 European Symposium on Research in Computer Security (ESORICS'23), September 2023.
 
 Experience
