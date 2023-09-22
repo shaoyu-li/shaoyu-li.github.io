@@ -16,10 +16,8 @@ I graduated with my B.S. in Information Security from Nankai University in Tianj
 
 Publications
 ------
-**Bijack: Breaking Bitcoin Network with TCP Vulnerabilities**
-
-S. Li, S. Shi, Y. Xiao, C. Zhang, Y. T. Hou, W. Lou
-
+**Bijack: Breaking Bitcoin Network with TCP Vulnerabilities**  
+S. Li, S. Shi, Y. Xiao, C. Zhang, Y. T. Hou, W. Lou   
 European Symposium on Research in Computer Security (ESORICS'23), September 2023.
 
 Experience
