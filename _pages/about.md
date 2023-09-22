@@ -18,7 +18,7 @@ Publications
 ------
 **Bijack: Breaking Bitcoin Network with TCP Vulnerabilities**  
 <u>Shaoyu Li</u>, Shanghao Shi, Yang Xiao, Chaoyu Zhang, Y. Thomas Hou, Wenjing Lou   
-<font color=blue>European Symposium on Research in Computer Security (ESORICS'23)</font>, September 2023.
+European Symposium on Research in Computer Security (ESORICS'23), September 2023.
 
 Experience
 ------
