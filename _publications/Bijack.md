@@ -6,9 +6,7 @@ excerpt: 'This paper is about an off-path attack on the Bitcoin network exploiti
 date: 2023-09-25
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Bijack: Breaking Bitcoin Network with TCP Vulnerabilities
-S. Li, S. Shi, Y. Xiao, C. Zhang, Y. T. Hou, W. Lou
-European Symposium on Research in Computer Security (ESORICS'23), September 2023.'
+citation: 'Bijack: Breaking Bitcoin Network with TCP Vulnerabilities, S. Li, S. Shi, Y. Xiao, C. Zhang, Y. T. Hou, W. Lou, European Symposium on Research in Computer Security (ESORICS'23), September 2023.'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
