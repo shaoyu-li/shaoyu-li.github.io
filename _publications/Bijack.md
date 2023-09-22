@@ -6,7 +6,7 @@ excerpt: 'This paper is about an off-path attack on the Bitcoin network exploiti
 date: 2023-09-25
 venue: ''
 paperurl: ''
-citation: ''
+citation: 'fsafsad'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
