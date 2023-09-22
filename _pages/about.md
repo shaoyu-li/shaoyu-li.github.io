@@ -14,6 +14,11 @@ I am a second-year PhD student at Virginia Tech, advised by Prof. Wenjing Lou. I
 
 I graduated with my B.S. in Information Security from Nankai University in Tianjin, China, in June 2020. Later, I graduated with an M.S. in IT Cyber Security from the University of Glasgow in the United Kingdom, in January 2022.
 
+Publications
+------
+**Bijack: Breaking Bitcoin Network with TCP Vulnerabilities**
+S. Li, S. Shi, Y. Xiao, C. Zhang, Y. T. Hou, W. Lou
+European Symposium on Research in Computer Security (ESORICS'23), September 2023.
 
 Experience
 ------
