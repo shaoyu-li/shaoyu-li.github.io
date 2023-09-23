@@ -16,7 +16,6 @@
       {% endif %}
       {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
       {% if s.text %}{{ s.text | markdownify }}{% endif %}
-      <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=120&t=tt&d=ICEp50VON9Zjpsk9mBV5-KiwJBvjdCo53y-5OSa0cf0&co=91c1e2&ct=140202'></script>
     {% endfor %}
     {% if page.sidebar.nav %}
       {% include nav_list nav=page.sidebar.nav %}
