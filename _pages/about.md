@@ -1,4 +1,12 @@
-
+---
+permalink: /
+title: "Shaoyu Li"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 I am a third-year PhD student at Virginia Tech, advised by Prof. Wenjing Lou. I am also part of the [CNSR-VT](https://www.cnsr.ictas.vt.edu/) lab. My research interests include blockchain and network security.
 
