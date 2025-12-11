@@ -8,9 +8,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
-title_separator          : ""
-show_title: false
+# title                    : ""
+# title_separator          : ""
+# show_title: false
 name                     : &name "Shaoyu Li"
 description              : &description "Ph.D. Student @ VT"
 url                      : https://shaoyu-li.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
