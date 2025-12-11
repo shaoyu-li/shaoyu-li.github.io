@@ -114,6 +114,14 @@ p {
   border-top: none !important;
 }
 
+/* Remove top border/line under page title */
+.page-title {
+  border-bottom: none !important;
+}
+
+hr {
+  display: none !important;
+}
 
 
 
