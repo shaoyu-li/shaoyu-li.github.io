@@ -15,10 +15,21 @@ I graduated with my B.S. in Information Security from Nankai University in Tianj
 
 Publications
 ------
-**Bijack: Breaking Bitcoin Network with TCP Vulnerabilities** [pdf](https://shaoyu-li.github.io/files/bijack.pdf) 
+<div class="publication-item">
+  <span class="publication-title">
+    Bijack: Breaking Bitcoin Network with TCP Vulnerabilities
+  </span>
+  <a class="pdf-btn" href="https://shaoyu-li.github.io/files/bijack.pdf">PDF</a>
+  <br>
+  <span class="publication-authors">
+    <u>Shaoyu Li</u>, Shanghao Shi, Yang Xiao, Chaoyu Zhang, Y. Thomas Hou, Wenjing Lou
+  </span>
+  <br>
+  <span class="publication-venue">
+    European Symposium on Research in Computer Security (ESORICS'23), September 2023.
+  </span>
+</div>
 
-<u>Shaoyu Li</u>, Shanghao Shi, Yang Xiao, Chaoyu Zhang, Y. Thomas Hou, Wenjing Lou   
-European Symposium on Research in Computer Security (ESORICS'23), September 2023.
 
 Experience
 ------
