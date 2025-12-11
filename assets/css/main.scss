@@ -50,3 +50,38 @@ body {
   line-height: 1.7;
   font-size: 17px;
 }
+/* ---------------------------
+   Heading spacing
+---------------------------- */
+h1, h2, h3, h4 {
+  margin-top: 32px;
+  margin-bottom: 18px;
+  font-weight: 600;
+}
+
+p {
+  margin-bottom: 14px;
+}
+/* ---------------------------
+   Profile image beautify
+---------------------------- */
+.author__avatar img {
+  border-radius: 12px !important;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+/* ---------------------------
+   Publications styling
+---------------------------- */
+.publication-title {
+  font-weight: 700;
+  font-size: 18px;
+}
+
+.publication-authors {
+  color: #555;
+}
+
+.publication-venue {
+  color: #777;
+  font-size: 14px;
+}
