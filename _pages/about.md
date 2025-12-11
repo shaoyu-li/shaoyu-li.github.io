@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shaoyu Li"
+# title: "Shaoyu Li"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
