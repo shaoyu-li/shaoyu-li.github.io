@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD student at Virginia Tech, advised by Prof. Wenjing Lou. I am also part of the [CNSR-VT](https://www.cnsr.ictas.vt.edu/) lab. My research interests include blockchain and network security.
+I am a fourth-year PhD student at Virginia Tech, advised by Prof. Wenjing Lou. I am also part of the [CNSR-VT](https://www.cnsr.ictas.vt.edu/) lab. My research interests include blockchain and network security.
 
 
-I graduated with my B.S. in Information Security from Nankai University in Tianjin, China, in June 2020. Later, I graduated with an M.S. in IT Cyber Security from the University of Glasgow in the United Kingdom, in January 2022.
+I graduated with my B.S. in Information Security from Nankai University in Tianjin, China, in June 2020. Later, I graduated with an M.S. in IT Cyber Security from the University of Glasgow in the United Kingdom in January 2022.
 
 Publications
 ------
