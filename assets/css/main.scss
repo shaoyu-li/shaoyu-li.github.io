@@ -77,6 +77,20 @@ p {
   font-size: 18px;
 }
 
+.pdf-btn {
+  padding: 2px 8px;
+  border-radius: 6px;
+  background: #1f77b4;
+  color: white !important;
+  font-size: 13px;
+  text-decoration: none;
+}
+
+.pdf-btn:hover {
+  background: #155a86;
+}
+
+
 .publication-authors {
   color: #555;
 }
