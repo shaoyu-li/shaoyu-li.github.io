@@ -33,6 +33,30 @@ Publications
 
 <div class="publication-item">
   <span class="publication-title">
+    StarCast: A Secure and Spectrum-Efficient Group Communication Scheme for LEO Satellite Networks
+  </span>
+
+  <a class="pdf-btn" href="https://shaoyu-li.github.io/files/starcast.pdf">PDF</a>
+
+  <br>
+
+  <span class="publication-authors">
+    Chaoyu Zhang, Hexuan Yu, Shanghao Shi, <u>Shaoyu Li</u>, Yi Shi, Eric Burger,
+    Y. Thomas Hou, Wenjing Lou
+  </span>
+
+  <br>
+
+  <span class="publication-venue">
+    IEEE International Symposium on Dynamic Spectrum Access Networks (DySPAN’25), May 2025.
+  </span>
+</div>
+
+
+
+
+<div class="publication-item">
+  <span class="publication-title">
     SoK: Public Blockchain Sharding
   </span>
   <a class="pdf-btn" href="https://shaoyu-li.github.io/files/SoK_Public_Blockchain_Sharding.pdf">PDF</a>
