@@ -78,16 +78,19 @@ p {
 }
 
 .pdf-btn {
-  padding: 2px 8px;
+  padding: 3px 10px;
   border-radius: 6px;
-  background: #1f77b4;
-  color: white !important;
+  background: #e3f0ff;      /* lighter blue */
+  color: #1a73e8 !important; /* Google Blue */
+  border: 1px solid #bcd6ff;
   font-size: 13px;
   text-decoration: none;
+  font-weight: 600;
 }
 
 .pdf-btn:hover {
-  background: #155a86;
+  background: #d6e8ff;
+  border-color: #a5c6ff;
 }
 
 
@@ -106,5 +109,17 @@ p {
   border-bottom: 1px solid #eee;
 }
 
+/* Conference tag on the title */
+.conf-tag {
+  display: inline-block;
+  margin-left: 8px;
+  padding: 2px 8px;
+  font-size: 12px;
+  font-weight: 600;
+  border-radius: 6px;
+  background-color: #e8f2ff; /* very light blue */
+  color: #1a73e8;            /* Google blue */
+  border: 1px solid #c7ddff;
+}
 
 
