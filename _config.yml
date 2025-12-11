@@ -8,7 +8,7 @@
 
 # Site Settings
 locale                   : "en-US"
-theme: minimal-mistakes-jekyll
+theme: null
 
 # title                    : ""
 # title_separator          : ""
