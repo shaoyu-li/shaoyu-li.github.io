@@ -31,6 +31,26 @@ Publications
 </div>
 
 
+<div class="publication-item">
+  <span class="publication-title">
+    SoK: Public Blockchain Sharding
+  </span>
+  <a class="pdf-btn" href="https://shaoyu-li.github.io/files/SoK_Public_Blockchain_Sharding.pdf">
+    PDF
+  </a>
+  <br>
+  <span class="publication-authors">
+    Md Mohaimin Al Barat, <u>Shaoyu Li</u>, Changlai Du, Y. Thomas Hou, Wenjing Lou
+  </span>
+  <br>
+  <span class="publication-venue">
+    2024 IEEE International Conference on Blockchain and Cryptocurrency (ICBC), May 2024.  
+    Pages 766–783. Publisher: IEEE.
+  </span>
+</div>
+
+
+
 
 Experience
 ------
