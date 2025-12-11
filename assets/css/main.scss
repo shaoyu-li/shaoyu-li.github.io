@@ -99,9 +99,12 @@ p {
   color: #777;
   font-size: 14px;
 }
-/* Add spacing between publication items */
+
 .publication-item {
-  margin-bottom: 50px;   
+  margin-bottom: 32px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #eee;
 }
+
 
 
