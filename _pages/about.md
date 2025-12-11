@@ -15,6 +15,28 @@ I graduated with my B.S. in Information Security from Nankai University in Tianj
 
 Publications
 ------
+
+<div class="publication-item">
+  <span class="publication-title">
+    FC-GUARD: A Privacy-Preserving Exchange System Between Fiat Currency and Cryptocurrency
+  </span>
+
+  <a class="pdf-btn" href="https://shaoyu-li.github.io/files/fcguard.pdf">PDF</a>
+
+  <br>
+
+  <span class="publication-authors">
+    <u>Shaoyu Li</u>, Hexuan Yu, Md Mohaimin Al Barat, Yang Xiao, Y. Thomas Hou, Wenjing Lou
+  </span>
+
+  <br>
+
+  <span class="publication-venue">
+    IEEE International Conference on Computer Communications (INFOCOM’26), May 2026.
+  </span>
+</div>
+
+
 <div class="publication-item">
   <span class="publication-title">
     Bijack: Breaking Bitcoin Network with TCP Vulnerabilities
