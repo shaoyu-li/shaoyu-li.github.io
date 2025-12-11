@@ -46,6 +46,23 @@ Publications
   </span>
 </div>
 
+<div class="publication-item">
+  <span class="publication-title">
+    Hermes: Boosting the performance of machine-learning-based intrusion detection system through geometric feature learning
+  </span>
+  <a class="pdf-btn" href="https://shaoyu-li.github.io/files/hermes">PDF</a>
+  <br>
+  <span class="publication-authors">
+    Chaoyu Zhang, Shanghao Shi, Ning Wang, Xiangxiang Xu, <u>Shaoyu Li</u>, Lizhong Zheng,
+    Randy Marchany, Mark Gardner, Y. Thomas Hou, Wenjing Lou
+  </span>
+  <br>
+  <span class="publication-venue">
+    ACM International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (MobiHoc’24), October 2024.
+  </span>
+</div>
+
+
 
 
 
