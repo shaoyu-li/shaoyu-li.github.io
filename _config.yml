@@ -9,7 +9,7 @@ remote_theme: "mmistakes/minimal-mistakes"
 # Site Settings
 locale                   : "en-US"
 
-favicon: images/favicon.jpg
+favicon: /images/favicon.jpg
 # title                    : ""
 # title_separator          : ""
 # show_title: false
