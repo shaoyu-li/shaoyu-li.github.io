@@ -50,7 +50,7 @@ Publications
   <span class="publication-title">
     Hermes: Boosting the performance of machine-learning-based intrusion detection system through geometric feature learning
   </span>
-  <a class="pdf-btn" href="https://shaoyu-li.github.io/files/hermes">PDF</a>
+  <a class="pdf-btn" href="https://shaoyu-li.github.io/files/hermes.pdf">PDF</a>
   <br>
   <span class="publication-authors">
     Chaoyu Zhang, Shanghao Shi, Ning Wang, Xiangxiang Xu, <u>Shaoyu Li</u>, Lizhong Zheng,
