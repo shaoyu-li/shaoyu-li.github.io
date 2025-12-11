@@ -8,6 +8,8 @@
 
 # Site Settings
 locale                   : "en-US"
+theme: minimal-mistakes-jekyll
+
 # title                    : ""
 # title_separator          : ""
 # show_title: false
