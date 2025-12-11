@@ -95,12 +95,14 @@ p {
 
 
 .publication-authors {
-  color: #555;
+  color: #777;       
+  font-size: 14px; 
 }
 
 .publication-venue {
-  color: #777;
-  font-size: 14px;
+  color: #000;       
+  font-size: 16px;    
+  font-weight: 500;   
 }
 
 .publication-item {
@@ -109,17 +111,5 @@ p {
   border-bottom: 1px solid #eee;
 }
 
-/* Conference tag on the title */
-.conf-tag {
-  display: inline-block;
-  margin-left: 8px;
-  padding: 2px 8px;
-  font-size: 12px;
-  font-weight: 600;
-  border-radius: 6px;
-  background-color: #e8f2ff; /* very light blue */
-  color: #1a73e8;            /* Google blue */
-  border: 1px solid #c7ddff;
-}
 
 
